@@ -1,6 +1,7 @@
 #### JAVA SWING ARAYÜZÜ İLE OLUSTURULMUS KART OYUNU
  
 - Özet
+
 Bu projede nesneye yönelik programlama ve arayüz programlama ile basit bir kart oyunu gerçekleştirdik. Oyun, basketbolcu ve tenisçi
 kartlarıyla oynanan basit bir oyundur. Oyunu; çeşitli veri yapılarını ve kalıtım, kapsülleme gibi nesneye yönelik programlamanın temel
 kavramlarını kullanarak tamamladık.
